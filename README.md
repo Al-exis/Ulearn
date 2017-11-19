@@ -8,11 +8,9 @@ PONER ALGO DE QUE (1) GLOBALISATION/TECHNOLOGY CADA VEZ INFLUENCIA MAS EN LA FOR
 
 USAR ESTO TAMBIEN:
 Ulearn takes advantage of the already-established communities:
-
-(1) Students at school, or university campuses
-(2) Neighbors in our block and district
-(3) Colleagues at work
-
+* Students at school, or university campuses
+* Neighbors in our block and district
+* Colleagues at work
 Besides their jobs and duties, these people have passions and skills that they want to share, practice or master
 
 
@@ -21,11 +19,10 @@ As a team of passionate engineers attending the NUS Singapore Hack&Roll Hackatho
 
 ## Concept
 
-A smartphone app 
-takes advantage of the already-established communities:
-• Students at school, or university campuses
-• Neighbors in our block and district
-• Colleagues at work
+A smartphone app    takes advantage of the already-established communities:
+* Students at school, or university campuses
+* Neighbors in our block and district
+* Colleagues at work
 Besides their jobs and duties, these people have passions and skills that they want to share, practice or master
 
 Teachers: Paid for their lessons, Gain prestige by rating, Decide on pricing
