@@ -7,11 +7,15 @@ Ulearn is a new concept platform which aims at connecting people that want to te
 PONER ALGO DE QUE (1) GLOBALISATION/TECHNOLOGY CADA VEZ INFLUENCIA MAS EN LA FORMA DE CONOCER GENTE, O DE QUE (2) LOS NEGOCIOS PERSONALES (DE PARTICULAR A PARTICULAR) CADA VEZ GANAN MAS PESO, Y UNO MUY IMPORTANTE ES EL TUTORING.
 
 USAR ESTO TAMBIEN:
-Ulearn takes advantage of the already-established communities: 
+Ulearn takes advantage of the already-established communities:
+
 (1) Students at school, or university campuses
 (2) Neighbors in our block and district
 (3) Colleagues at work
+
 Besides their jobs and duties, these people have passions and skills that they want to share, practice or master
+
+
 
 As a team of passionate engineers attending the NUS Singapore Hack&Roll Hackathon, we decided to take advantage of this unsatisfied necessity by developing a novel and innovative solution: Ulearn. (MOLARIA PONER EL NOMBRE CON LA MISMA FUENTE QUE EN EL PPT)
 
