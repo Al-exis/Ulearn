@@ -4,36 +4,39 @@ Ulearn is a new concept platform which aims at connecting people that want to te
 
 ## Motivations
 
-Cooking is healthy, culturally rewarding, and above all funny. Yet, many people don't cook and have never learnt how to, either because it is not part of their culture and they never had the opportunity to, or because they simply don't have time for it.
-As a team of cooking-lover engineers attending the Singapore Nanyang Technopreneurship Center *Startathon*, we decided to tackle this problem by developing an innovative and affordable solution: Smart Chef.
+PONER ALGO DE QUE (1) GLOBALISATION/TECHNOLOGY CADA VEZ INFLUENCIA MAS EN LA FORMA DE CONOCER GENTE, O DE QUE (2) LOS NEGOCIOS PERSONALES (DE PARTICULAR A PARTICULAR) CADA VEZ GANAN MAS PESO, Y UNO MUY IMPORTANTE ES EL TUTORING.
+
+USAR ESTO TAMBIEN:
+Ulearn takes advantage of the already-established communities: 
+• Students at school, or university campuses
+• Neighbors in our block and district
+• Colleagues at work
+Besides their jobs and duties, these people have passions and skills that they want to share, practice or master
+
+As a team of passionate engineers attending the NUS Singapore Hack&Roll Hackathon, we decided to take advantage of this unsatisfied necessity by developing a novel and innovative solution: Ulearn. (MOLARIA PONER EL NOMBRE CON LA MISMA FUENTE QUE EN EL PPT)
 
 ## Concept
 
-A smartphone app guides the user through several recipes, coming from different parts of the world and having diverse levels of difficulty. Step by step, the user receives feedback about his or her cooking technique in a fun and interactive way, allowing him or her to quickly be able to cook delicious food.
+A smartphone app 
+takes advantage of the already-established communities: 
+• Students at school, or university campuses
+• Neighbors in our block and district
+• Colleagues at work
+Besides their jobs and duties, these people have passions and skills that they want to share, practice or master
 
-A small device is attached to the cooking pan or pot, and measures several parameters related to the food being cooked, such as temperature, CO2, or vibrations. This data is sent over Bluetooth to the smartphone, which analyses them, and convert them into an intuitive feedback. The device is removable and discreet, so it does not bother the user.
+Teachers: Paid for their lessons, Gain prestige by rating, Decide on pricing
+Students: Select their teachers, Rate their teaching skills, Establish contact
+Agree on the schedule and meetup location, Determine their knowledge areas of interest and expertise
 
-<p align="center">
-	<img src="doc/Technical_slide.jpg" width="750"/>
-</p>
+The app is designed to connect people that are close – thus saving them from a long journey to their their class. Finding the teacher you want is only a tap away!
 
-## Hardware Device
+Save money by saving time; make money by teaching your skills. Choose the teacher that best adapts to your needs and budget.
 
-Main features:
-* Three sensors measuring temperature, CO2 concentration, and acceleration
-* Status LEDs
-* Battery powered
-* Optimized power consumption: BLE communication, low-power microcontroller, carefully selected sensors...
+Ratings for all users (both teaching and being taught) ensures quality of customers. Show them your best self!
 
-Early prototype:
-* Arduino UNO
-* Dallas DS18B20 thermocouple 
-* InvenSense MPU-6050 IMU
-* Bluetooth HC-05 module
-* Green, Orange and Red LEDs controlled by the smartphone
+## Phone App
 
-## Game App
-
+ADAPTAR TODO:::
 Main features:
 * Various recipes (levels) accessed on a remote database
 * Online account management
@@ -43,25 +46,17 @@ Main features:
 
 The early prototype was developed with Unity game engine and featured one full recipe. The Android version is already available for feedback on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.SmartChef).
 
-<p align="center">
-	<img src="doc/App_ui_2.png" height="400">
-	<img src="doc/App_ui_1.png" height="400">
-</p>
 
 ## What comes next
 
+ADAPTAR TODO:::
 Additional features that could potentially be implemented:
 * Allow the user to rate recipes and suggest improvements, use machine learning to update the database based on the score given by many users
 * Advanced feedback to the user using fuzzy logic
 * Automatic ingredients ordering to local groceries with home delivery
 
-## Awards
-
-This project won the third place of the Singapore Nanyang Technopreneurship Center *Startathon*, a 32-hour event focusing on idea development and implementation.
-
 ## Credits
 
-* Software development: Alexis Pomares Pastor and Timoté Vaucher
-* Hardware and firmware development: Paul-Edouard Sarlin
-* Prototype design: Ignacio Albert Smet
-* Business plan and speech: Jacques Weniger
+* Software development: Alexis Pomares Pastor
+* Business plan: Ignacio Albert Smet
+* Design and speech: Paul-Edouard Sarlin, Mudit Gupta and Ignacio Albert Smet
