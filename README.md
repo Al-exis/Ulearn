@@ -8,9 +8,9 @@ PONER ALGO DE QUE (1) GLOBALISATION/TECHNOLOGY CADA VEZ INFLUENCIA MAS EN LA FOR
 
 USAR ESTO TAMBIEN:
 Ulearn takes advantage of the already-established communities: 
-• Students at school, or university campuses
-• Neighbors in our block and district
-• Colleagues at work
+(1) Students at school, or university campuses
+(2) Neighbors in our block and district
+(3) Colleagues at work
 Besides their jobs and duties, these people have passions and skills that they want to share, practice or master
 
 As a team of passionate engineers attending the NUS Singapore Hack&Roll Hackathon, we decided to take advantage of this unsatisfied necessity by developing a novel and innovative solution: Ulearn. (MOLARIA PONER EL NOMBRE CON LA MISMA FUENTE QUE EN EL PPT)
