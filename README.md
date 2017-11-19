@@ -18,7 +18,7 @@ As a team of passionate engineers attending the NUS Singapore Hack&Roll Hackatho
 ## Concept
 
 A smartphone app 
-takes advantage of the already-established communities: 
+takes advantage of the already-established communities:
 • Students at school, or university campuses
 • Neighbors in our block and district
 • Colleagues at work
