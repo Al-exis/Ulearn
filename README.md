@@ -1,43 +1,59 @@
 # Ulearn
 
-Ulearn is a new concept platform which aims at connecting people that want to teach with those that want to learn. At the moment it has only been materialized in the form of a mobile app, and we expect to develop soon a website and other forms of online presence. Here we present the hypothetical features as well as the first prototype of the app.
+Ulearn is a new concept platform which aims at connecting people that want to teach with those that want to learn. At the moment it has only been materialized in the form of a mobile app, and we expect to develop soon a website and other forms of online presence. Here we present the present and upcoming features, as well as the first prototype of the app.
 
 ## Motivations
 
-PONER ALGO DE QUE (1) GLOBALISATION/TECHNOLOGY CADA VEZ INFLUENCIA MAS EN LA FORMA DE CONOCER GENTE, O DE QUE (2) LOS NEGOCIOS PERSONALES (DE PARTICULAR A PARTICULAR) CADA VEZ GANAN MAS PESO, Y UNO MUY IMPORTANTE ES EL TUTORING.
+A world increasingly connected by the accessibility to information services translates in speed and cost reduction when in need to search for products, goods and services. As a team of passionate engineers attending the NUS Singapore Hack&Roll Hackathon, we observed that, however, private classes (either sporadic or regular) are subject to strong commissions from agencies both inside and outside of Singapore.
 
-USAR ESTO TAMBIEN:
+In this context, we decided to tackle this problem by developing an innovative solution: Ulearn, a platform that connects teachers with students by topic and proximity. In this way, the heartbreaking commissions of agencies and the transport times decrease for both students and teachers, resulting in greater flexibility for our users.
+
+ANTIGUO:
+Poner algo de que (1) globalisation/technology cada vez influencia mas en la forma de conocer gente, o de que (2) los negocios personales (de particular a particular) cada vez ganan mas peso, y uno muy importante es el tutoring.
+
+ANTIGUO TAMBIEN:
 Ulearn takes advantage of the already-established communities:
 * Students at school, or university campuses
 * Neighbors in our block and district
 * Colleagues at work
 Besides their jobs and duties, these people have passions and skills that they want to share, practice or master
 
-
-
-As a team of passionate engineers attending the NUS Singapore Hack&Roll Hackathon, we decided to take advantage of this unsatisfied necessity by developing a novel and innovative solution: Ulearn. (MOLARIA PONER EL NOMBRE CON LA MISMA FUENTE QUE EN EL PPT)
-
 ## Concept
 
+Through the app and website users will be able to filter by topic (advanced calculus, guitar, languages, magic tricks) and personal preferences (location, schedule, age). Students will also be able to access the descriptions of their potential tutors to see reviews and make an informed choice. There could also be an Express service that allows them to quickly find available tutors for intensive sessions before academic tests or exams, when time becomes crucial.
+
+Profit would be obtained from one or more of the following sources:
+- Premium services, e.g. one that would allow subscribed teachers to appear first in the search list.
+- Small and competitive commissions for the first two sessions.
+- Official recognition by the company of the titles and aptitudes of registered tutors.
+	
+The emergence of Ulearn in the current market would benefit users - both teachers and students – by improving the search dynamics and lowering the price of knowledge transmission.
+
+
+ANTIGUO:
 A smartphone app    takes advantage of the already-established communities:
 * Students at school, or university campuses
 * Neighbors in our block and district
 * Colleagues at work
 Besides their jobs and duties, these people have passions and skills that they want to share, practice or master
 
+ANTIGUO:
 Teachers: Paid for their lessons, Gain prestige by rating, Decide on pricing
 Students: Select their teachers, Rate their teaching skills, Establish contact
 Agree on the schedule and meetup location, Determine their knowledge areas of interest and expertise
 
+ANTIGUO:
 The app is designed to connect people that are close – thus saving them from a long journey to their their class. Finding the teacher you want is only a tap away!
 
+ANTIGUO:
 Save money by saving time; make money by teaching your skills. Choose the teacher that best adapts to your needs and budget.
 
+ANTIGUO:
 Ratings for all users (both teaching and being taught) ensures quality of customers. Show them your best self!
 
 ## Phone App
 
-ADAPTAR TODO:::
+ADAPTAR:
 Main features:
 * Various recipes (levels) accessed on a remote database
 * Online account management
@@ -45,12 +61,12 @@ Main features:
 * Real-time communication with the device
 * Feedback such as: "increase/decrease temperature", "give a stir" or "food is burning"
 
-The early prototype was developed with Unity game engine and featured one full recipe. The Android version is already available for feedback on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.SmartChef).
-
+ADAPTAR:
+The early prototype was developed with Unity game engine and featured one full recipe.
 
 ## What comes next
 
-ADAPTAR TODO:::
+ADAPTAR:
 Additional features that could potentially be implemented:
 * Allow the user to rate recipes and suggest improvements, use machine learning to update the database based on the score given by many users
 * Advanced feedback to the user using fuzzy logic
@@ -61,3 +77,37 @@ Additional features that could potentially be implemented:
 * Software development: Alexis Pomares Pastor
 * Business plan: Ignacio Albert Smet
 * Design and speech: Paul-Edouard Sarlin, Mudit Gupta and Ignacio Albert Smet
+
+
+
+
+
+
+
+A world increasingly connected by the accessibility to information services translates in speed and cost reduction when in need to search for products, goods and services. Ulearn is a platform born in this context with the purpose of enabling an easy tutor-student relationship.
+
+Private classes, both sporadic and regular, are subject to strong commissions from agencies both inside and outside of Singapore. Being this a considerable sector, we propose Ulearn: a platform that connects teachers with students by topic and proximity. In this way, the heartbreaking commissions of agencies and the transport times decrease for both students and teachers, resulting in greater flexibility for our users.
+
+Through the app and the website users will be able to filter by topic (advanced calculus, guitar, languages, magic tricks) and personal preferences (location, schedule, age). Students will also be able to access the descriptions of their potential tutors to see reviews and make an informed choice. There will also be an Express service that allows them to quickly find available tutors for intensive sessions before academic tests or exams, when time becomes crucial.
+
+Profit will be obtained from one or more of the following sources:
+- Premium services, e.g. one that would allow subscribed teachers to appear first in the search list.
+- Small and competitive commissions for the first two sessions.
+- Official recognition by the company of the titles and aptitudes of registered tutors.
+	
+The emergence of Ulearn in the current market would benefit users - both teachers and students – by improving the search dynamics and lowering the price of knowledge transmission.
+
+
+
+Un mundo crecientemente conectado por la accesibilidad a servicios de información resulta en rapidez y abaratamiento de costes a la hora de buscar productos, bienes y servicios. Ulearn es una plataforma nacida en este contexto que pretende dar salida a la relación tutor-alumno.
+
+Las clases particulares, tanto esporádicas como regulares, están sujetas a fuertes comisiones por parte de las agencias tanto dentro como fuera de España. Siendo este un sector considerable, proponemos Ulearn: una plataforma que conecte a profesores con alumnos por temática y proximidad. De esta manera, se reducen tanto para el alumno como para el profesor las comisiones desgarradoras de las agencias y los tiempos de transporte, traduciéndose en una mayor flexibilidad para los usuarios.
+
+A través de la App y la web de Ulearn los usuarios podran navegar por diferentes menus estableciendo temáticas (cálculo, guitarra, inglés) y preferencias (lugar, horario, edad). Los alumnos podrán acceder a las descripciones de sus potenciales profesores para consultar comentarios y así realizar una elección informada. Se propone, además, un servicio Express que permita buscar rápidamente profesores disponibles antes de pruebas académicas o exámenes, cuando el tiempo se vuelve crucial.
+
+Para recaudar dinero, se proponen uno o varios de los siguientes métodos:
+- La publicidad, que permitiría a los profesores suscritos aparecer primero en las búsquedas.
+- Comisiones muy reducidas y competitivas
+- El reconocimiento oficial por la empresa de los títulos y aptitudes de profesores registrados.
+
+La irrupción de Ulearn en el mercado actual beneficiaría a los usuarios - tanto profesores como alumnos- mejorando la dinámica de búsqueda y abaratando el precio de transmisión del conocimiento.
