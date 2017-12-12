@@ -6,7 +6,7 @@ Ulearn is a new concept platform which aims at connecting people that want to te
 
 A world increasingly connected by the accessibility to information services translates in speed and cost reduction when in need to search for products, goods and services. As a team of passionate engineers attending the NUS Singapore Hack&Roll Hackathon, we observed that, however, private classes (either sporadic or regular) are subject to strong commissions from agencies both inside and outside of Singapore.
 
-In this context, we decided to tackle this problem by developing an innovative solution: Ulearn, a platform that connects teachers with students by topic and proximity. In this way, the heartbreaking commissions of agencies and the transport times decrease for both students and teachers, resulting in greater flexibility for our users.
+In this context, we decided to tackle the stated problem by developing an innovative solution: Ulearn, a platform that connects teachers with students by topic and proximity. In this way, the heartbreaking commissions of agencies and the transport times decrease for both students and teachers, resulting in greater flexibility for our users.
 
 ANTIGUO:
 Poner algo de que (1) globalisation/technology cada vez influencia mas en la forma de conocer gente, o de que (2) los negocios personales (de particular a particular) cada vez ganan mas peso, y uno muy importante es el tutoring.
