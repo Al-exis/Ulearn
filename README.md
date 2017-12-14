@@ -30,6 +30,7 @@ The emergence of Ulearn in the current market would benefit users - both teacher
 <p align="center">
 	<img src="doc/App_1.png" height="400">
 	<img src="doc/App_2.png" height="400">
+	<img src="doc/App_3.png" height="400">
 </p>
 
 ## What comes next
