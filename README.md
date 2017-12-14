@@ -9,7 +9,7 @@ A world increasingly connected by the accessibility to information services tran
 With this in mind, we decided to tackle the stated problem by developing an innovative solution: Ulearn, a platform that connects teachers with students by topic and proximity. In this way, the heartbreaking commissions of agencies and the transport times decrease for both students and teachers, resulting in greater flexibility for our users.
 
 <p align="center">
-	<img src="doc/Technical_slide.png" height="400">
+	<img src="doc/Technical_slide.png" height="300">
 </p>
 
 ## Concept
