@@ -18,6 +18,7 @@ Ulearn takes advantage of the already-established communities:
 * Students at school, or university campuses
 * Neighbors in our block and district
 * Colleagues at work
+
 Besides their jobs and duties, these people have passions and skills that they want to share, practice or master. Through the app and website users will be able to filter by topic (advanced calculus, guitar, languages, magic tricks) and personal preferences (location, schedule, age). Students will also be able to access the descriptions of their potential tutors to see reviews and make an informed choice.
 
 Profit would be obtained from one or more of the following sources:
